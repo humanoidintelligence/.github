@@ -1,6 +1,7 @@
-# Hi, Humanoid Intelligence!
+Hi, we are the **[Humanoid Intelligence Team](https://humanoidintelligence.github.io)**, jointly supported by [OpenMOSS](https://openmoss.ai), [Shanghai Innovation Institute](https://www.sii.edu.cn), and [Fudan University](https://www.fudan.edu.cn/en). We:
 
-**We develop and scale cognitive-science inspired humanoid foundation models, agents, and supporting infrastructure.**
+- nurture humanoid robots toward general intelligence, and into every home,
+- develop and scale cognitive-science-inspired humanoid foundation models, agents, and supporting infra.
 
 ## Infra
 
@@ -11,4 +12,5 @@
 ## Contact
 
 - GitHub: [@humanoidintelligence](https://github.com/humanoidintelligence)
+- Hugging Face: [@humanoidintelligence](https://huggingface.co/humanoidintelligence)
 - Email: pengli.ds@gmail.com
