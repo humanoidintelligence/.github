@@ -8,7 +8,7 @@ Hi, we are the **[Humanoid Intelligence Team](https://humanoidintelligence.githu
 - **[hiRobot](https://github.com/humanoidintelligence/hiRobot)** — A unified interface layer for controlling diverse robots.
 - **[hiWBC](https://github.com/humanoidintelligence/hiWBC)** — A unified whole-body control layer for humanoid robots.
 - **[hiVLA](https://github.com/humanoidintelligence/hiVLA)** — A unified serving layer for deploying diverse VLA models.
-- **[hiApp](https://github.com/humanoidintelligence/hiApp)** — For hi-Series Agentic Robot Software Stacks.
+- **[hiApp](https://github.com/humanoidintelligence/hiApp)** — An App for hi-Series Agentic Robot Software Stacks.
 
 ## Contact
 
