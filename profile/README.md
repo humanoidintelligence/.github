@@ -3,7 +3,7 @@ Hi, we are the **[Humanoid Intelligence Team](https://humanoidintelligence.githu
 - nurture humanoid robots toward general intelligence, and into every home,
 - develop and scale cognitive-science-inspired humanoid foundation models, agents, and supporting infra.
 
-## Infra
+## Projects
 
 - **[hiRobot](https://github.com/humanoidintelligence/hiRobot)** — A unified interface layer for controlling diverse robots.
 - **[hiWBC](https://github.com/humanoidintelligence/hiWBC)** — A unified whole-body control layer for humanoid robots.
